@@ -5,7 +5,7 @@
 
 
 ## Github Repository URL
-
+https://github.com/JakeDeines/Team-Profile-Generator
 
 ## Deployed Website Image
 ![team profile pic 1](https://user-images.githubusercontent.com/67669417/103450860-27579a00-4c71-11eb-9c35-d8cc61f4739e.PNG)
