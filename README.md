@@ -2,6 +2,8 @@
 
 
 ## Description
+In this proejct i created a Node CLI team profile app that prompts the user to build an engineering team. An engineering
+team consists of a manager, and any number of engineers and interns. The app generates a `team.html` page in the `output` directory, that displays a nicely formatted team roster.
 
 
 ## Github Repository URL
